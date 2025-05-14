@@ -1,0 +1,5 @@
+draft/
+future/
+.hugo_build.lock
+resources/
+public/

@@ -1,4 +1,17 @@
-# Documenting Your Code in Go
+---
+title: "Documenting Your Code"
+weight: 130
+bookFlatSection: true
+# bookToc: true
+# bookHidden: false
+# bookCollapseSection: false
+# bookComments: false
+# bookSearchExclude: false
+---
+
+# Documenting Your Code
+
+**Notice:** generated with AI (google-labs-jules)
 
 Go has excellent built-in support for documentation through a convention known as "Go Doc" comments and the `go doc` command-line tool (and the historical `godoc` web server). Writing good documentation is crucial for making your code understandable, maintainable, and usable by others (and your future self).
 

@@ -1,4 +1,17 @@
-# Templating in Go
+---
+title: "Templating"
+weight: 70
+bookFlatSection: true
+# bookToc: true
+# bookHidden: false
+# bookCollapseSection: false
+# bookComments: false
+# bookSearchExclude: false
+---
+
+# Templating
+
+**Notice:** generated with AI (google-labs-jules)
 
 Go provides two primary packages for templating: `text/template` for generating any kind of textual output, and `html/template` for generating HTML output that is safe against code injection. The `html/template` package is generally preferred for web applications due to its security features.
 

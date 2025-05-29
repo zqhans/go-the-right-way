@@ -1,4 +1,17 @@
-# Security in Go
+---
+title: "Security"
+weight: 90
+bookFlatSection: true
+# bookToc: true
+# bookHidden: false
+# bookCollapseSection: false
+# bookComments: false
+# bookSearchExclude: false
+---
+
+# Security
+
+**Notice:** generated with AI (google-labs-jules)
 
 Security is a critical aspect of any application. Go provides tools and features that can help you build secure software, but secure development practices are paramount.
 

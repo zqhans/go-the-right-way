@@ -1,4 +1,17 @@
-# Databases in Go
+---
+title: "Databases"
+weight: 60
+bookFlatSection: true
+# bookToc: true
+# bookHidden: false
+# bookCollapseSection: false
+# bookComments: false
+# bookSearchExclude: false
+---
+
+# Databases
+
+**Notice:** generated with AI (google-labs-jules)
 
 Go provides robust support for interacting with databases through its standard library and a rich ecosystem of third-party drivers and Object-Relational Mappers (ORMs).
 

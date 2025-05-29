@@ -1,4 +1,17 @@
-# Virtualization for Go Development
+---
+title: "Virtualization"
+weight: 110
+bookFlatSection: true
+# bookToc: true
+# bookHidden: false
+# bookCollapseSection: false
+# bookComments: false
+# bookSearchExclude: false
+---
+
+# Virtualization
+
+**Notice:** generated with AI (google-labs-jules)
 
 Virtualization technologies like Docker and Vagrant are valuable tools for Go developers, helping to create consistent, reproducible, and isolated development and testing environments.
 

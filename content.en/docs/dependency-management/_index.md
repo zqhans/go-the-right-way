@@ -1,4 +1,17 @@
-# Dependency Management in Go
+---
+title: "Dependency Management"
+weight: 30
+bookFlatSection: true
+# bookToc: true
+# bookHidden: false
+# bookCollapseSection: false
+# bookComments: false
+# bookSearchExclude: false
+---
+
+# Dependency Management
+
+**Notice:** generated with AI (google-labs-jules)
 
 Go has a built-in system for managing dependencies called Go Modules. This system allows you to specify the versions of packages your project depends on, ensuring reproducible builds.
 

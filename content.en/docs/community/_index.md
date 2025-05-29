@@ -1,4 +1,17 @@
-# The Go Community
+---
+title: "Community"
+weight: 150
+bookFlatSection: true
+# bookToc: true
+# bookHidden: false
+# bookCollapseSection: false
+# bookComments: false
+# bookSearchExclude: false
+---
+
+# Community
+
+**Notice:** generated with AI (google-labs-jules)
 
 The Go community is active, welcoming, and global, offering a wealth of resources for learning, collaboration, and support.
 

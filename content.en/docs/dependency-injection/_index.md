@@ -1,4 +1,17 @@
-# Dependency Injection in Go
+---
+title: "Dependency Injection"
+weight: 50
+bookFlatSection: true
+# bookToc: true
+# bookHidden: false
+# bookCollapseSection: false
+# bookComments: false
+# bookSearchExclude: false
+---
+
+# Dependency Injection
+
+**Notice:** generated with AI (google-labs-jules)
 
 Dependency Injection (DI) is a design pattern where a component's dependencies are provided to it from an external source, rather than the component creating them itself. This promotes loose coupling, making code more modular, testable, and maintainable.
 

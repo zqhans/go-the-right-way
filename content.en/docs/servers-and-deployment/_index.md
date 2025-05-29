@@ -1,4 +1,17 @@
-# Servers and Deployment in Go
+---
+title: "Servers and Deployment"
+weight: 100
+bookFlatSection: true
+# bookToc: true
+# bookHidden: false
+# bookCollapseSection: false
+# bookComments: false
+# bookSearchExclude: false
+---
+
+# Servers and Deployment
+
+**Notice:** generated with AI (google-labs-jules)
 
 Go is well-suited for building web servers and network services, and its compiled nature simplifies deployment. This section covers common approaches to deploying Go applications.
 

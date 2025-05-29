@@ -1,4 +1,17 @@
-# Testing in Go
+---
+title: "Testing"
+weight: 90
+bookFlatSection: true
+# bookToc: true
+# bookHidden: false
+# bookCollapseSection: false
+# bookComments: false
+# bookSearchExclude: false
+---
+
+# Testing
+
+**Notice:** generated with AI (google-labs-jules)
 
 Go has built-in support for testing, making it easy to write and run unit tests, benchmarks, and example tests. The `go test` command automates the execution of tests.
 

@@ -1,4 +1,17 @@
-# Errors and Panics in Go
+---
+title: "Errors and Exceptions"
+weight: 80
+bookFlatSection: true
+# bookToc: true
+# bookHidden: false
+# bookCollapseSection: false
+# bookComments: false
+# bookSearchExclude: false
+---
+
+# Errors and Panics
+
+**Notice:** generated with AI (google-labs-jules)
 
 Go has a distinct approach to error handling that differs significantly from languages that rely heavily on exceptions. In Go, errors are values, and explicit error checking is a fundamental part of the language's philosophy. Panics are reserved for truly exceptional, unrecoverable situations.
 

@@ -1,4 +1,17 @@
-# Caching in Go
+---
+title: "Caching"
+weight: 120
+bookFlatSection: true
+# bookToc: true
+# bookHidden: false
+# bookCollapseSection: false
+# bookComments: false
+# bookSearchExclude: false
+---
+
+# Caching
+
+**Notice:** generated with AI (google-labs-jules)
 
 Caching is a vital technique for improving application performance and reducing latency by storing frequently accessed data in a way that allows for faster retrieval. Go applications can leverage various caching strategies, from simple in-memory caches to distributed caching systems.
 

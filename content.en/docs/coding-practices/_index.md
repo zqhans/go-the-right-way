@@ -1,4 +1,17 @@
-# Coding Practices in Go
+---
+title: "Coding Practices"
+weight: 40
+bookFlatSection: true
+# bookToc: true
+# bookHidden: false
+# bookCollapseSection: false
+# bookComments: false
+# bookSearchExclude: false
+---
+
+# Coding Practices
+
+**Notice:** generated with AI (google-labs-jules)
 
 This section covers best practices and common patterns for writing robust and maintainable Go code. Adhering to these practices will help you and your team build better software.
 
